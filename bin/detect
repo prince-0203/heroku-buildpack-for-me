@@ -1,5 +1,5 @@
 #!/bin/sh
 
 # this pack is valid for all apps
-echo "prince's Buildpack"
+echo "prince's Buildpack: detect"
 exit 0
